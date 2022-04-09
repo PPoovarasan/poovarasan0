@@ -4,8 +4,8 @@ public class Main
 {
     public static void main(String[]args)
     {
-        Scanner poovarasan=new Scanner(System.in);
-        int num=poovarasan.nextInt();
+        Scanner sc=new Scanner(System.in);
+        int num=sc.nextInt();
         int bin=0;
         int m=1;
         while(num>0)
